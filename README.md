@@ -21,10 +21,6 @@
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
-- [Roadmap](#roadmap)
-- [Support](#support)
-- [Contributing](#contributing)
-- [Authors & contributors](#authors--contributors)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
 
