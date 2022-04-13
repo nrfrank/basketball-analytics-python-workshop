@@ -30,8 +30,8 @@
 
 ## About
 
-This repository provides materials for the "Basketball Analytics with Python" workshop at the 
-[2022 Basketball Analytics Summit](https://www.basketballanalyticssummit.com/).
+This repository provides materials for the "“How to Begin Your Journey: Hands on Basketball Analytics with Python" 
+workshop at the [2022 Basketball Analytics Summit](https://www.basketballanalyticssummit.com/).
 
 
 ## Getting Started
@@ -54,9 +54,7 @@ Then follow the [usage](#usage) documentation.
 
 ## Usage
 
-> **[?]**
-> How does one go about using it?
-> Provide various use cases and code examples here.
+TBD
 
 ## License
 
